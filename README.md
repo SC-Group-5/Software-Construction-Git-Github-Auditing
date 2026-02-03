@@ -12,14 +12,4 @@ It is intended to demonstrate our practical understanding of version control con
 - Anna Akumu
 
 # Structure
-The repository is arranged according to the course modules. Within each module, there are folders for individual contributors alongside shared demonstration files where required.
-
-# Collaboration Workflow
-
-Modules 1–2: Contributors make direct commits to the main branch within their respective folders.
-
-Module 3: Remote repositories are introduced, with limited use of branching.
-
-Module 4: Development follows a branch-based workflow, incorporating pull requests, peer reviews, and controlled merges into the main branch.
-
-This progression reflects the gradual introduction of version control and collaboration concepts throughout the course.
+The repository has a branch for each one in the group.
