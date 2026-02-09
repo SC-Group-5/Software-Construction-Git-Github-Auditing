@@ -1,0 +1,11 @@
+Content covered from Module one
+ - Version control (like Git) helps IT people save every change to scripts and settings, see what happened before, go back if something breaks, 
+avoid messy quick fixes, and let teams work together safely.
+ -version control tools.
+   - diff:this helps in spoting out the difference inase there are changes applied
+   it follows the following syntax  " diff file1.py file2.py", this mean that the diff will give us the diference in file1.py and file2.py
+   Moreso the < represents the removed infomation from the file and the > sign represents what extra informatin has been added to the file.
+   - The second command is " diff -u file1.py file2.py", this changes from use of < or > to use of -- and ++ respectively.
+How to apply changes
+   -Command 1 " patch with a < sign " : incase file1.py has an error and someone corrects the error in the a different file named fil2.py,
+    to appply those changes to file1.py, we shall use this command " patch file1.py < file2.py"
